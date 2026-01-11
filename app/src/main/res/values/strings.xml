@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Mobile Lab Assignment</string>
+
+    <string name="problem_one">Problem 1: Inches to Centimetres</string>
+    <string name="problem_two">Problem 2: Tap Counter</string>
+    <string name="problem_three">Problem 3: BMI Calculator</string>
+    <string name="problem_four">Problem 4: Explicit Intent</string>
+    <string name="problem_five">Problem 5: Arithmetic Calculator</string>
+
+    <string name="inches_to_cm_title">Inches to Centimetres</string>
+    <string name="inches_hint">Enter inches</string>
+    <string name="convert">Convert</string>
+    <string name="cm_result_placeholder">Centimetres: --</string>
+    <string name="cm_result">Centimetres: %.2f</string>
+
+    <string name="tap_counter_title">Tap Counter</string>
+    <string name="tap_me">Tap me!</string>
+    <string name="tap_count_value">Tap count: %d</string>
+    <string name="tap_count_value_default">Tap count: 0</string>
+
+    <string name="bmi_title">BMI Calculator</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="height_hint">Height (m)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result_placeholder">BMI: --</string>
+    <string name="bmi_result">BMI: %.2f (%s)</string>
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="bmi_obese">Obese</string>
+
+    <string name="first_activity_title">First Activity</string>
+    <string name="second_activity_title">Second Activity</string>
+    <string name="go_to_second">Go to Second Activity</string>
+    <string name="go_to_first">Go to First Activity</string>
+
+    <string name="calculator_title">Calculator</string>
+    <string name="number_one_hint">First number</string>
+    <string name="number_two_hint">Second number</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="calculate">Calculate</string>
+    <string name="selected_operation">Selected operation: %s</string>
+    <string name="calculation_result_placeholder">Result: --</string>
+    <string name="calculation_result">Result: %.2f</string>
+
+    <string name="invalid_input">Please enter valid numbers.</string>
+    <string name="divide_by_zero">Cannot divide by zero.</string>
+</resources>
